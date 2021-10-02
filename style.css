@@ -19,7 +19,7 @@ body {
     background-image: url("/bg.jpg");
     color: var(--text);
     font-family: 'Noto Sans JP', sans-serif;
-    overflow-x: hidden;
+    overflow-x: hidden; 
 }
 
 header {

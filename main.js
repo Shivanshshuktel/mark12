@@ -17,7 +17,7 @@ let base = document.querySelector('.base');
 let height = document.querySelector('.height');
 let areaDiv = document.querySelector('.area');
 
-let sum = 0, a_length, b_length, hypo_length = 0, correctAngle, thirdAngleGuess, area;
+let  sum = 0, a_length, b_length, hypo_length = 0, correctAngle, thirdAngleGuess, area;
 
 let formOne = document.querySelector('#one');
 let formTwo = document.querySelector('#two');
